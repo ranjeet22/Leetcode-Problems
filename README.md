@@ -12,4 +12,6 @@
 
 - **[3Sum](https://leetcode.com/problems/3sum/description/)**  
 
-- **[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)**  
+- **[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)**
+
+- **[Triplets with Smaller Sum](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1)**  
