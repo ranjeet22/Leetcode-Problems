@@ -11,3 +11,5 @@
 - **[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)**  
 
 - **[3Sum](https://leetcode.com/problems/3sum/description/)**  
+
+- **[3Sum Closest](https://leetcode.com/problems/3sum-closest/description/)**  
