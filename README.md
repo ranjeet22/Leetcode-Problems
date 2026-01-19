@@ -18,4 +18,8 @@
 
 - **[Segregate 0s and 1s](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)**
 
-- **[Dutch National Flag algorithm](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)** 
+- **[Dutch National Flag algorithm](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1)**
+
+## Sliding Window
+
+- **[Max Sum Subarray of size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1)**
