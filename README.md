@@ -27,3 +27,5 @@
 - **[Min Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)**
 
 - **[Longest Substring with K Uniques](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1)**
+  
+- **[Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)**
