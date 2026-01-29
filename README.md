@@ -47,3 +47,5 @@
 - **[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)**
 
 - **[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)**
+
+- **[Happy Number](https://leetcode.com/problems/happy-number/)**
