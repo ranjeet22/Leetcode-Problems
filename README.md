@@ -45,3 +45,5 @@
 - **[Linked list cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)**
 
 - **[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)**
+
+- **[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)**
