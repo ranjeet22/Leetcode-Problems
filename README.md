@@ -49,3 +49,7 @@
 - **[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)**
 
 - **[Happy Number](https://leetcode.com/problems/happy-number/)**
+
+## Rainwater Trapping
+
+- **[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)**
