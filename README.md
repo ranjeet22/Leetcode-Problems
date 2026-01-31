@@ -53,3 +53,11 @@
 ## Rainwater Trapping
 
 - **[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)**
+
+## Kadane's Algo
+
+- **[Maximum subarray sum](https://leetcode.com/problems/maximum-subarray/?utm_source=chatgpt.com)**
+
+- **[Minimum Subarray Sum](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1)**
+
+- **[Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/?utm_source=chatgpt.com)**
