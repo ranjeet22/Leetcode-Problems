@@ -56,8 +56,12 @@
 
 ## Kadane's Algo
 
-- **[Maximum subarray sum](https://leetcode.com/problems/maximum-subarray/?utm_source=chatgpt.com)**
+- **[Maximum subarray sum](https://leetcode.com/problems/maximum-subarray/)**
 
 - **[Minimum Subarray Sum](https://www.geeksforgeeks.org/problems/smallest-sum-contiguous-subarray/1)**
 
-- **[Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/?utm_source=chatgpt.com)**
+- **[Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/)**
+
+- **[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)**
+
+- **[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)**
