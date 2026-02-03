@@ -65,3 +65,5 @@
 - **[Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)**
 
 - **[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)**
+
+- **[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)**
