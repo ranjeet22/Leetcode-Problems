@@ -67,3 +67,9 @@
 - **[Maximum Absolute Sum of Any Subarray](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)**
 
 - **[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)**
+
+## Trionic Array
+
+- **[Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/)**
+
+- **[Trionic Array II](https://leetcode.com/problems/trionic-array-ii/description/)**
