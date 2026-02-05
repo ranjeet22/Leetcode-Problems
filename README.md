@@ -68,8 +68,10 @@
 
 - **[Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/)**
 
-## Trionic Array
+## Array
 
 - **[Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/)**
 
 - **[Trionic Array II](https://leetcode.com/problems/trionic-array-ii/description/)**
+
+- **[Transformed Array](https://leetcode.com/problems/transformed-array/)**
