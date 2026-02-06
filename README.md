@@ -38,6 +38,8 @@
 
 - **[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)**
 
+- **[Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/)**
+
 ## Fast and Slow Pointer
 
 - **[Linked list cycle](https://leetcode.com/problems/linked-list-cycle/)**
