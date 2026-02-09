@@ -77,3 +77,7 @@
 - **[Trionic Array II](https://leetcode.com/problems/trionic-array-ii/description/)**
 
 - **[Transformed Array](https://leetcode.com/problems/transformed-array/)**
+
+## Tree
+
+- **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
