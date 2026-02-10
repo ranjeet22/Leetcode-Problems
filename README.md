@@ -78,6 +78,8 @@
 
 - **[Transformed Array](https://leetcode.com/problems/transformed-array/)**
 
+- **[Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
