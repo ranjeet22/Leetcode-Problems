@@ -80,6 +80,8 @@
 
 - **[Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/)**
 
+- **[Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
