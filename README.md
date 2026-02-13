@@ -84,6 +84,8 @@
 
 - **[Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/)**
 
+- **[Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
