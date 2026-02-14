@@ -52,9 +52,11 @@
 
 - **[Happy Number](https://leetcode.com/problems/happy-number/)**
 
-## Rainwater Trapping
+## Dynamic Programming
 
 - **[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)**
+
+- **[Champagne Tower](https://leetcode.com/problems/champagne-tower)**
 
 ## Kadane's Algo
 
