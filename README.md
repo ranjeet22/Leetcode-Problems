@@ -91,3 +91,7 @@
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
+
+## Number system
+
+- **[Add Binary](https://leetcode.com/problems/add-binary)**
