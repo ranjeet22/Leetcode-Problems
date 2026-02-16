@@ -92,6 +92,8 @@
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
 
-## Number system
+## Bit manipulation
 
 - **[Add Binary](https://leetcode.com/problems/add-binary)**
+
+- **[Reverse Bits](https://leetcode.com/problems/reverse-bits)**
