@@ -97,3 +97,5 @@
 - **[Add Binary](https://leetcode.com/problems/add-binary)**
 
 - **[Reverse Bits](https://leetcode.com/problems/reverse-bits)**
+
+- **[Binary Watch](https://leetcode.com/problems/binary-watch)**
