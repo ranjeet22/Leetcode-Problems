@@ -99,3 +99,5 @@
 - **[Reverse Bits](https://leetcode.com/problems/reverse-bits)**
 
 - **[Binary Watch](https://leetcode.com/problems/binary-watch)**
+
+- **[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)**
