@@ -105,3 +105,7 @@
 ## String
 
 - **[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)**
+
+## Recursion
+
+- **[Special Binary String](https://leetcode.com/problems/special-binary-string/)**
