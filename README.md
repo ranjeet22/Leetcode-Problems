@@ -102,6 +102,8 @@
 
 - **[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits)**
 
+- **[Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation)**
+
 ## String
 
 - **[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)**
