@@ -106,6 +106,8 @@
 
 - **[Binary Gap](https://leetcode.com/problems/binary-gap)**
 
+- **[Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k)**
+
 ## String
 
 - **[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)**
