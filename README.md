@@ -112,6 +112,8 @@
 
 - **[Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits)**
 
+- **[Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)**
+
 ## String
 
 - **[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)**
