@@ -118,6 +118,8 @@
 
 - **[Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/description/)**
 
+- **[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)**
+
 ## String
 
 - **[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)**
