@@ -88,6 +88,8 @@
 
 - **[Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii)**
 
+- **[Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
