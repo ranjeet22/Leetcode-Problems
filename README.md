@@ -122,6 +122,8 @@
 
 - **[Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)**
 
+- **[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string)**
+
 ## String
 
 - **[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)**
