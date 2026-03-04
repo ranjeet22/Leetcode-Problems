@@ -90,6 +90,8 @@
 
 - **[Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid)**
 
+- **[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
