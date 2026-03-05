@@ -130,6 +130,8 @@
 
 - **[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)**
 
+- **[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)**
+
 ## Recursion
 
 - **[Special Binary String](https://leetcode.com/problems/special-binary-string/)**
