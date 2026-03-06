@@ -132,6 +132,8 @@
 
 - **[Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string)**
 
+- **[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)**
+
 ## Recursion
 
 - **[Special Binary String](https://leetcode.com/problems/special-binary-string/)**
