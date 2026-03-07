@@ -40,6 +40,8 @@
 
 - **[Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array/description/)**
 
+- **[Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating)**
+
 ## Fast and Slow Pointer
 
 - **[Linked list cycle](https://leetcode.com/problems/linked-list-cycle/)**
