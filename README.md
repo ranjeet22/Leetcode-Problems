@@ -136,6 +136,8 @@
 
 - **[Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones)**
 
+- **[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string)**
+
 ## Recursion
 
 - **[Special Binary String](https://leetcode.com/problems/special-binary-string/)**
