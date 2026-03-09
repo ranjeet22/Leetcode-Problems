@@ -138,6 +138,8 @@
 
 - **[Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string)**
 
+- **[Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i)**
+
 ## Recursion
 
 - **[Special Binary String](https://leetcode.com/problems/special-binary-string/)**
