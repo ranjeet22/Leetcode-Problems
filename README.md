@@ -140,6 +140,8 @@
 
 - **[Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i)**
 
+- **[Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii)**
+
 ## Recursion
 
 - **[Special Binary String](https://leetcode.com/problems/special-binary-string/)**
