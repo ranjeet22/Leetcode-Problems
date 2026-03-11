@@ -128,6 +128,8 @@
 
 - **[Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string)**
 
+- **[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer)**
+
 ## String
 
 - **[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings)**
