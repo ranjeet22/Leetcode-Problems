@@ -144,6 +144,8 @@
 
 - **[Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii)**
 
+- **[The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n)**
+
 ## Recursion
 
 - **[Special Binary String](https://leetcode.com/problems/special-binary-string/)**
