@@ -149,3 +149,7 @@
 ## Recursion
 
 - **[Special Binary String](https://leetcode.com/problems/special-binary-string/)**
+
+## API Problems
+
+- **[Fancy Sequence](https://leetcode.com/problems/fancy-sequence)**
