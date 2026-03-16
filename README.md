@@ -94,6 +94,8 @@
 
 - **[Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix)**
 
+- **[Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
