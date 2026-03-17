@@ -96,6 +96,8 @@
 
 - **[Get Biggest Three Rhombus Sums in a Grid](https://leetcode.com/problems/get-biggest-three-rhombus-sums-in-a-grid)**
 
+- **[Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
