@@ -42,6 +42,8 @@
 
 - **[Minimum Number of Flips to Make the Binary String Alternating](https://leetcode.com/problems/minimum-number-of-flips-to-make-the-binary-string-alternating)**
 
+- **[Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix)**
+
 ## Fast and Slow Pointer
 
 - **[Linked list cycle](https://leetcode.com/problems/linked-list-cycle/)**
