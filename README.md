@@ -108,6 +108,8 @@
 
 - **[Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y)**
 
+- **[Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
