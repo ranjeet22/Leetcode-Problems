@@ -114,6 +114,8 @@
 
 - **[Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix)**
 
+- **[Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
