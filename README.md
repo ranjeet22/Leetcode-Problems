@@ -118,7 +118,7 @@
 
 - **[Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i)**
 
-- - **[Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii)**
+- **[Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii)**
 
 ## Tree
 
