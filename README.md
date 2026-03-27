@@ -120,6 +120,8 @@
 
 - **[Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii)**
 
+- **[Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
