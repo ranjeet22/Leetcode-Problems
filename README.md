@@ -122,6 +122,8 @@
 
 - **[Matrix Similarity After Cyclic Shifts](https://leetcode.com/problems/matrix-similarity-after-cyclic-shifts)**
 
+- **[Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string)**
+
 ## Tree
 
 - **[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description)**
