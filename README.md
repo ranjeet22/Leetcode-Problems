@@ -183,3 +183,7 @@
 ## API Problems
 
 - **[Fancy Sequence](https://leetcode.com/problems/fancy-sequence)**
+
+## April 2026 Problems
+
+- **[Robot Collisions](https://leetcode.com/problems/robot-collisions)**
