@@ -66,6 +66,14 @@
 
 - **[Champagne Tower](https://leetcode.com/problems/champagne-tower)**
 
+- **[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)**
+
+- **[N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)**
+
+- **[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)**
+
+- **[House Robber](https://leetcode.com/problems/house-robber/)**
+
 ## Kadane's Algo
 
 - **[Maximum subarray sum](https://leetcode.com/problems/maximum-subarray/)**
@@ -187,3 +195,7 @@
 ## April 2026 Problems
 
 - **[Robot Collisions](https://leetcode.com/problems/robot-collisions)**
+
+- **[Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/)**
+
+- **[Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/description/)**
