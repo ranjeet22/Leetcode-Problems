@@ -196,6 +196,10 @@
 
 - **[Robot Collisions](https://leetcode.com/problems/robot-collisions)**
 
+<<<<<<< HEAD
 - **[Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/)**
 
 - **[Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/description/)**
+=======
+- **[Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn)**
+>>>>>>> dad1879ff9833b600b83da6b723682dfeb54bbb9
