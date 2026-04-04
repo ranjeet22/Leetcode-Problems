@@ -201,3 +201,5 @@
 - **[Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/description/)**
 
 - **[Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn)**
+
+- **[Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext)**
