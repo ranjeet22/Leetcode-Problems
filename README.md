@@ -206,6 +206,6 @@
 
 - **[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin)**
 
--**[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation)**
+- **[Walking Robot Simulation](https://leetcode.com/problems/walking-robot-simulation)**
 
--**[Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii)**
+- **[Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii)**
