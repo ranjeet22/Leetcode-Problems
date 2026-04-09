@@ -211,3 +211,5 @@
 - **[Walking Robot Simulation II](https://leetcode.com/problems/walking-robot-simulation-ii)**
 
 - **[XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i/)**
+
+- **[XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/)**
