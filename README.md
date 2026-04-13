@@ -219,3 +219,5 @@
 - **[Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii)**
 
 - **[Minimum Distance to Type a Word Using Two Fingers](https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers)**
+
+- **[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element)**
