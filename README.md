@@ -223,3 +223,5 @@
 - **[Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element)**
 
 - **[Minimum Total Distance Traveled](https://leetcode.com/problems/minimum-total-distance-traveled)**
+
+- **[Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array)**
