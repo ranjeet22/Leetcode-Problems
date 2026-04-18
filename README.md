@@ -229,3 +229,5 @@
 - **[Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries)**
 
 - **[Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs)**
+
+- **[Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer)**
