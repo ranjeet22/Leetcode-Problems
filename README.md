@@ -231,3 +231,6 @@
 - **[Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs)**
 
 - **[Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer)**
+
+- **[Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values)**
+
