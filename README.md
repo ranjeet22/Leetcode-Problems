@@ -234,3 +234,4 @@
 
 - **[Maximum Distance Between a Pair of Values](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values)**
 
+- **[Two Furthest Houses With Different Colors](https://leetcode.com/problems/two-furthest-houses-with-different-colors)**
