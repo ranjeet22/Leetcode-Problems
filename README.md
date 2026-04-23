@@ -239,3 +239,5 @@
 - **[Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations)**
 
 - **[Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary)**
+
+- **[Sum of Distances](https://leetcode.com/problems/sum-of-distances/)**
