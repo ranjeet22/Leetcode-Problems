@@ -243,3 +243,5 @@
 - **[Sum of Distances](https://leetcode.com/problems/sum-of-distances/)**
 
 - **[Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin)**
+
+- **[Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square)**
