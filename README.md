@@ -247,3 +247,5 @@
 - **[Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square)**
 
 - **[Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid)**
+
+- **[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)**
