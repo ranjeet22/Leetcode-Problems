@@ -249,3 +249,5 @@
 - **[Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid)**
 
 - **[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)**
+
+- **[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid)**
