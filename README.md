@@ -251,3 +251,5 @@
 - **[Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid)**
 
 - **[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid)**
+
+- **[Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations)**
