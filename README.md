@@ -253,3 +253,5 @@
 - **[Minimum Operations to Make a Uni-Value Grid](https://leetcode.com/problems/minimum-operations-to-make-a-uni-value-grid)**
 
 - **[Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations)**
+
+- **[Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid)**
