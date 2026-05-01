@@ -255,3 +255,7 @@
 - **[Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations)**
 
 - **[Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid)**
+
+## April 2026 Problems
+
+- **[Rotate Function](https://leetcode.com/problems/rotate-function)**
