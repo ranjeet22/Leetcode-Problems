@@ -259,3 +259,5 @@
 ## April 2026 Problems
 
 - **[Rotate Function](https://leetcode.com/problems/rotate-function)**
+
+- **[Rotated Digits](https://leetcode.com/problems/rotated-digits)**
