@@ -256,10 +256,12 @@
 
 - **[Maximum Path Score in a Grid](https://leetcode.com/problems/maximum-path-score-in-a-grid)**
 
-## April 2026 Problems
+## May 2026 Problems
 
 - **[Rotate Function](https://leetcode.com/problems/rotate-function)**
 
 - **[Rotated Digits](https://leetcode.com/problems/rotated-digits)**
 
 - **[Rotate String](https://leetcode.com/problems/rotate-string)**
+
+- **[Rotate Image](https://leetcode.com/problems/rotate-image)**
