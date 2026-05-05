@@ -265,3 +265,5 @@
 - **[Rotate String](https://leetcode.com/problems/rotate-string)**
 
 - **[Rotate Image](https://leetcode.com/problems/rotate-image)**
+
+- **[Rotate List](https://leetcode.com/problems/rotate-list)**
