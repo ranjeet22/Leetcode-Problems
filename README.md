@@ -267,3 +267,5 @@
 - **[Rotate Image](https://leetcode.com/problems/rotate-image)**
 
 - **[Rotate List](https://leetcode.com/problems/rotate-list)**
+
+- **[Rotating the Box](https://leetcode.com/problems/rotating-the-box)**
