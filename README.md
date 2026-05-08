@@ -271,3 +271,5 @@
 - **[Rotating the Box](https://leetcode.com/problems/rotating-the-box)**
 
 - **[Jump Game IX](https://leetcode.com/problems/jump-game-ix/)**
+
+- **[Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation)**
