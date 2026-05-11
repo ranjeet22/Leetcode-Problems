@@ -277,3 +277,5 @@
 - **[Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid)**
 
 - **[Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index)**
+
+- **[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)**
