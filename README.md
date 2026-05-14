@@ -281,3 +281,7 @@
 - **[Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/)**
 
 - **[Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks)**
+
+- **[Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary)**
+
+- **[Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good)**
