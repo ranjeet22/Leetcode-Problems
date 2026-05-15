@@ -285,3 +285,5 @@
 - **[Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary)**
 
 - **[Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good)**
+
+- **[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array)**
