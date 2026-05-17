@@ -290,3 +290,4 @@
 
 - **[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)**
 
+- **[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)**
