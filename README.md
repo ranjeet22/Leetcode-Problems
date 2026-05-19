@@ -293,3 +293,5 @@
 - **[Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets)**
 
 - **[Jump Game IV](https://leetcode.com/problems/jump-game-iv)**
+
+- **[Minimum Common Value](https://leetcode.com/problems/minimum-common-value)**
