@@ -295,3 +295,9 @@
 - **[Jump Game IV](https://leetcode.com/problems/jump-game-iv)**
 
 - **[Minimum Common Value](https://leetcode.com/problems/minimum-common-value)**
+
+- **[Minimum Common Value](https://leetcode.com/problems/minimum-common-value)**
+ 
+## LeetCode 75
+
+- **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
