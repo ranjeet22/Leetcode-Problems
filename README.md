@@ -297,6 +297,8 @@
 - **[Minimum Common Value](https://leetcode.com/problems/minimum-common-value)**
 
 - **[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays)**
+
+- **[Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix)**
  
 ## LeetCode 75
 
