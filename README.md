@@ -299,7 +299,9 @@
 - **[Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays)**
 
 - **[Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix)**
- 
+
+- **[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)**
+  
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
