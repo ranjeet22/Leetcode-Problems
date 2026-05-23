@@ -301,6 +301,8 @@
 - **[Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix)**
 
 - **[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)**
+
+- **[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)**
   
 ## LeetCode 75
 
@@ -310,4 +312,4 @@
 
 - **[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)**
 
-- **[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=study-plan-v2&envId=leetcode-75)**
+- **[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/)**
