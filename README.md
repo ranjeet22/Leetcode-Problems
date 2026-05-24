@@ -303,6 +303,8 @@
 - **[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array)**
 
 - **[Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated)**
+
+- **[Jump Game V](https://leetcode.com/problems/jump-game-v)**
   
 ## LeetCode 75
 
