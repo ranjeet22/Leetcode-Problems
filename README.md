@@ -307,6 +307,8 @@
 - **[Jump Game V](https://leetcode.com/problems/jump-game-v)**
 
 - **[Jump Game VII](https://leetcode.com/problems/jump-game-vii/)**
+
+- **[Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i)**
   
 ## LeetCode 75
 
