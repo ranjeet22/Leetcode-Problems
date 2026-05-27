@@ -309,6 +309,8 @@
 - **[Jump Game VII](https://leetcode.com/problems/jump-game-vii/)**
 
 - **[Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i)**
+
+- **[Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii)**
   
 ## LeetCode 75
 
@@ -325,3 +327,5 @@
 - **[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string)**
 
 - **[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self)**
+
+- **[Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence)**
