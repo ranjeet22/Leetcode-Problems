@@ -311,6 +311,8 @@
 - **[Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i)**
 
 - **[Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii)**
+
+- **[Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries)**
   
 ## LeetCode 75
 
