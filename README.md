@@ -315,6 +315,8 @@
 - **[Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries)**
 
 - **[Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum)**
+
+- **[Block Placement Queries](https://leetcode.com/problems/block-placement-queries)**
   
 ## LeetCode 75
 
