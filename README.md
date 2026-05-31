@@ -318,6 +318,8 @@
 
 - **[Block Placement Queries](https://leetcode.com/problems/block-placement-queries)**
   
+- **[Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids)**
+  
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
