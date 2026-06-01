@@ -319,6 +319,10 @@
 - **[Block Placement Queries](https://leetcode.com/problems/block-placement-queries)**
   
 - **[Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids)**
+
+## May 2026 Problems
+
+- **[Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount)**
   
 ## LeetCode 75
 
