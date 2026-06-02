@@ -323,6 +323,9 @@
 ## May 2026 Problems
 
 - **[Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount)**
+
+- **[Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**
+
   
 ## LeetCode 75
 
@@ -352,4 +355,4 @@
 
 - **[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)**
 
-- **[Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**
+- **[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)**
