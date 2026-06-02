@@ -351,3 +351,5 @@
 - **[Container With Most Water](https://leetcode.com/problems/container-with-most-water)**
 
 - **[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)**
+
+- **[Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/)**
