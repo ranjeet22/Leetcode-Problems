@@ -356,3 +356,5 @@
 - **[Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs)**
 
 - **[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)**
+
+- **[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)**
