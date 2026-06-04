@@ -328,6 +328,7 @@
 
 - **[Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/maximum-average-subarray-ii/)**
 
+- **[Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i)**
 
   
 ## LeetCode 75
@@ -361,3 +362,5 @@
 - **[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/)**
 
 - **[Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length)**
+
+- **[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)**
