@@ -331,7 +331,9 @@
 - **[Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i)**
 
 - **[Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii)**
-  
+
+- **[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
