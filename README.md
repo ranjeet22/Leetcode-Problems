@@ -367,3 +367,7 @@
 - **[Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii)**
 
 - **[Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element)**
+
+- **[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)**
+
+- **[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)**
