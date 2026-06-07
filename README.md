@@ -334,6 +334,8 @@
 
 - **[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences)**
 
+- **[]()**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
@@ -373,3 +375,5 @@
 - **[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)**
 
 - **[Find Pivot Index](https://leetcode.com/problems/find-pivot-index)**
+
+- **[Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays)**
