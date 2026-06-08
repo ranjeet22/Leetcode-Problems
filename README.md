@@ -336,6 +336,8 @@
 
 - **[Create Binary Tree From Descriptions](https://leetcode.com/problems/create-binary-tree-from-descriptions)**
 
+- **[Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
