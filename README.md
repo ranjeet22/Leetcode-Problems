@@ -340,6 +340,8 @@
 
 - **[Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i)**
 
+- **[Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/)**
+  
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
