@@ -341,7 +341,9 @@
 - **[Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i)**
 
 - **[Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/)**
-  
+
+- **[Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
