@@ -389,3 +389,5 @@
 - **[Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close)**
 
 - **[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)**
+
+- **[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)**
