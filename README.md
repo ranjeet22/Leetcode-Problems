@@ -393,3 +393,5 @@
 - **[Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)**
 
 - **[Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/)**
+
+- **[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description)**
