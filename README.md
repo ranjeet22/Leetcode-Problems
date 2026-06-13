@@ -346,6 +346,8 @@
 
 - **[Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii)**
 
+- **[Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
