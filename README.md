@@ -348,6 +348,8 @@
 
 - **[Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping)**
 
+- **[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
