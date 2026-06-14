@@ -401,3 +401,5 @@
 - **[Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description)**
 
 - **[Decode String](https://leetcode.com/problems/decode-string)**
+
+- **[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)**
