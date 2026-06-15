@@ -405,3 +405,5 @@
 - **[Decode String](https://leetcode.com/problems/decode-string)**
 
 - **[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)**
+
+- **[Dota2 Senate](https://leetcode.com/problems/dota2-senate/description)**
