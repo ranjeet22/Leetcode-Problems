@@ -352,6 +352,8 @@
 
 - **[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)**
 
+- **[Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
@@ -409,3 +411,5 @@
 - **[Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls)**
 
 - **[Dota2 Senate](https://leetcode.com/problems/dota2-senate/description)**
+
+- **[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)**
