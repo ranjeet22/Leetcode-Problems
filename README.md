@@ -354,6 +354,8 @@
 
 - **[Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i)**
 
+- **[Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
