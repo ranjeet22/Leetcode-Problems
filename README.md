@@ -356,6 +356,8 @@
 
 - **[Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii/)**
 
+- **[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
@@ -417,3 +419,5 @@
 - **[Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list)**
 
 - **[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description)**
+
+- **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description)**
