@@ -358,6 +358,8 @@
 
 - **[Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description)**
 
+- **[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
@@ -421,3 +423,5 @@
 - **[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description)**
 
 - **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description)**
+
+- **[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)**
