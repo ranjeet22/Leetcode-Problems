@@ -425,3 +425,5 @@
 - **[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description)**
 
 - **[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)**
+
+- **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description)**
