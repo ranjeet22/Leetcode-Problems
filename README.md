@@ -360,6 +360,8 @@
 
 - **[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude)**
 
+- **[Maximum Building Height](https://leetcode.com/problems/maximum-building-height)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
