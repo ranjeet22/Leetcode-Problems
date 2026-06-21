@@ -362,6 +362,8 @@
 
 - **[Maximum Building Height](https://leetcode.com/problems/maximum-building-height)**
 
+- **[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
@@ -429,3 +431,5 @@
 - **[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list)**
 
 - **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description)**
+
+- **[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description)**
