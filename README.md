@@ -364,6 +364,8 @@
 
 - **[Maximum Ice Cream Bars](https://leetcode.com/problems/maximum-ice-cream-bars)**
 
+- **[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
@@ -433,3 +435,5 @@
 - **[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description)**
 
 - **[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/description)**
+
+- **[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description)**
