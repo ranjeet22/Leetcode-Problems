@@ -366,6 +366,8 @@
 
 - **[Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/)**
 
+- **[Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
