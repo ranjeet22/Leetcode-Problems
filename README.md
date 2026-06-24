@@ -441,3 +441,5 @@
 - **[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/description)**
 
 - **[Path Sum III](https://leetcode.com/problems/path-sum-iii)**
+
+- **[Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)**
