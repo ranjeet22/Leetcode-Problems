@@ -368,6 +368,8 @@
 
 - **[Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/)**
 
+- **[Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
