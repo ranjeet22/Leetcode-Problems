@@ -372,6 +372,8 @@
 
 - **[Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i)**
 
+- **[Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
@@ -449,3 +451,5 @@
 - **[Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree)**
 
 - **[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description)**
+
+- **[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)**
