@@ -374,6 +374,8 @@
 
 - **[Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii)**
 
+- **[Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
