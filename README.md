@@ -457,3 +457,5 @@
 - **[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)**
 
 - **[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)**
+
+- **[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)**
