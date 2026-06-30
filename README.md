@@ -380,6 +380,8 @@
 
 - **[Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)**
 
+- **[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
@@ -465,3 +467,5 @@
 - **[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree)**
 
 - **[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)**
+
+- **[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)**
