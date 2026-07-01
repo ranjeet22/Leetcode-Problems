@@ -469,3 +469,5 @@
 - **[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/)**
 
 - **[Keys and Rooms](https://leetcode.com/problems/keys-and-rooms)**
+
+- **[Number of Provinces](https://leetcode.com/problems/number-of-provinces)**
