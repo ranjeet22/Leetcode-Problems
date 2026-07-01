@@ -320,7 +320,7 @@
   
 - **[Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids)**
 
-## May 2026 Problems
+## June 2026 Problems
 
 - **[Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount)**
 
@@ -381,6 +381,10 @@
 - **[Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)**
 
 - **[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters)**
+
+## July 2026 Problems
+
+- **[Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid)**
 
 ## LeetCode 75
 
