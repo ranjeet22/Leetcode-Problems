@@ -388,6 +388,8 @@
 
 - **[Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/)**
 
+- **[Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
