@@ -394,6 +394,12 @@
 
 - **[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score)**
 
+- **[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals)**
+
+- **[Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/)**
+
+- **[Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
