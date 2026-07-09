@@ -400,6 +400,8 @@
 
 - **[Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/)**
 
+- **[Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
