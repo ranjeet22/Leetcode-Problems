@@ -404,6 +404,8 @@
 
 - **[Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii)**
 
+- **[Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
