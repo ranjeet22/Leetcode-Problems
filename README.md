@@ -392,7 +392,8 @@
 
 - **[Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities)**
 
-- **[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score)**
+- **[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-scr
+- **[Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components)**e)**
 
 - **[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals)**
 
@@ -404,7 +405,7 @@
 
 - **[Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii)**
 
-- **[Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components)**
+- **[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array)**
 
 ## LeetCode 75
 
