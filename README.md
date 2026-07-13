@@ -407,6 +407,9 @@
 
 - **[Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array)**
 
+- **[Sequential Digits](https://leetcode.com/problems/sequential-digits/description)**
+
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
