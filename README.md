@@ -409,6 +409,7 @@
 
 - **[Sequential Digits](https://leetcode.com/problems/sequential-digits/description)**
 
+- **[Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)**
 
 ## LeetCode 75
 
