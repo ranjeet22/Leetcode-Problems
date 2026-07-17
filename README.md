@@ -415,6 +415,9 @@
 
 - **[Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/)**
 
+- **[Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries)**
+
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
