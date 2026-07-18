@@ -417,6 +417,7 @@
 
 - **[Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries)**
 
+- **[Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/)**
 
 ## LeetCode 75
 
