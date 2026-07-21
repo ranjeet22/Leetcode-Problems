@@ -423,6 +423,8 @@
 
 - **[Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/description)**
 
+- **[Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/)**
+
 
 ## LeetCode 75
 
