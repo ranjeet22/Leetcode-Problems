@@ -425,6 +425,7 @@
 
 - **[Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/)**
 
+- **[Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)**
 
 ## LeetCode 75
 
