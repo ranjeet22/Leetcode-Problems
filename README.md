@@ -427,6 +427,9 @@
 
 - **[Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii/)**
 
+- **[Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i)**
+
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
