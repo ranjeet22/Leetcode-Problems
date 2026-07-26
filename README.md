@@ -433,6 +433,8 @@
 
 - **[Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/)**
 
+- **[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
