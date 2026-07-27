@@ -435,6 +435,8 @@
 
 - **[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers)**
 
+- **[Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
