@@ -392,8 +392,9 @@
 
 - **[Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities)**
 
-- **[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-scr
-- **[Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components)**e)**
+- **[Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score)**
+- 
+- **[Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components)**
 
 - **[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals)**
 
