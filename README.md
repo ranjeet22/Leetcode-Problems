@@ -72,6 +72,8 @@
 
 - **[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)**
 
+- **[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)**
+
 - **[House Robber](https://leetcode.com/problems/house-robber/)**
 
 ## Kadane's Algo
