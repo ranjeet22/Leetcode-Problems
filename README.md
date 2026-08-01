@@ -448,6 +448,8 @@
 
 - **[Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii)**
 
+- **[Predict the Winner](https://leetcode.com/problems/predict-the-winner)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
