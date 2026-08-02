@@ -448,7 +448,11 @@
 
 - **[Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii)**
 
+## August 2026 Problems
+
 - **[Predict the Winner](https://leetcode.com/problems/predict-the-winner)**
+
+- **[Stone Game](https://leetcode.com/problems/stone-game/description/)**
 
 ## LeetCode 75
 
