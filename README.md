@@ -454,6 +454,8 @@
 
 - **[Stone Game](https://leetcode.com/problems/stone-game/description/)**
 
+- **[Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
