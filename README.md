@@ -456,6 +456,8 @@
 
 - **[Stone Game III](https://leetcode.com/problems/stone-game-iii/description/)**
 
+- **[Find Missing Elements](https://leetcode.com/problems/find-missing-elements)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
