@@ -460,6 +460,8 @@
 
 - **[Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project)**
 
+- **[Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
