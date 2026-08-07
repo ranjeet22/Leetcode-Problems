@@ -462,6 +462,8 @@
 
 - **[Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/)**
 
+- **[Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
