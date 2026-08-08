@@ -384,6 +384,8 @@
 
 - **[Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters)**
 
+- **[Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence)**
+
 ## July 2026 Problems
 
 - **[Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid)**
