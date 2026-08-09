@@ -466,6 +466,8 @@
 
 - **[Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/)**
 
+- **[Stone Game II](https://leetcode.com/problems/stone-game-ii)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
