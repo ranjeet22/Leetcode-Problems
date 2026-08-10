@@ -468,6 +468,9 @@
 
 - **[Stone Game II](https://leetcode.com/problems/stone-game-ii)**
 
+- **[Stone Game IV](https://leetcode.com/problems/stone-game-iv)**
+
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
