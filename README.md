@@ -470,6 +470,7 @@
 
 - **[Stone Game IV](https://leetcode.com/problems/stone-game-iv)**
 
+- **[Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum)**
 
 ## LeetCode 75
 
