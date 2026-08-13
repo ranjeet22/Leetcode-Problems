@@ -474,6 +474,8 @@
 
 - **[Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency)**
 
+- **[Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
