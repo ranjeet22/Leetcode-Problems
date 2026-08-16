@@ -480,6 +480,8 @@
 
 - **[Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor)**
 
+- **[Stone Game IX](https://leetcode.com/problems/stone-game-ix)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
