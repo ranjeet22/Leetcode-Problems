@@ -486,6 +486,8 @@
 
 - **[Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/)**
 
+- **[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
