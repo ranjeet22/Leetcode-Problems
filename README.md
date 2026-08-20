@@ -488,6 +488,8 @@
 
 - **[Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation)**
 
+- **[Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
