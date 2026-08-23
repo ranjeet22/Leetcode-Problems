@@ -494,6 +494,8 @@
 
 - **[Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/)**
 
+- **[Sum Game](https://leetcode.com/problems/sum-game/description)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
