@@ -496,6 +496,8 @@
 
 - **[Sum Game](https://leetcode.com/problems/sum-game/description)**
 
+- **[Stone Game VIII](https://leetcode.com/problems/stone-game-viii)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
