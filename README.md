@@ -498,6 +498,8 @@
 
 - **[Stone Game VIII](https://leetcode.com/problems/stone-game-viii)**
 
+- **[Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
