@@ -500,6 +500,8 @@
 
 - **[Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k)**
 
+- **[Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
