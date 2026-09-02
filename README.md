@@ -514,6 +514,8 @@
 
 - **[Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom)**
 
+- **[Construct Uniform Parity Array I](https://leetcode.com/problems/construct-uniform-parity-array-i)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
