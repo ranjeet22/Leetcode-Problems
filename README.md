@@ -518,6 +518,8 @@
 
 - **[Construct Uniform Parity Array II](https://leetcode.com/problems/construct-uniform-parity-array-ii)**
 
+- **[Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
