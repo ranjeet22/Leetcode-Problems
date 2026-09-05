@@ -520,6 +520,8 @@
 
 - **[Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i)**
 
+- **[Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
