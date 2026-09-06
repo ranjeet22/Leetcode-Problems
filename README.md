@@ -522,6 +522,8 @@
 
 - **[Smallest Stable Index II](https://leetcode.com/problems/smallest-stable-index-ii/)**
 
+- **[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
