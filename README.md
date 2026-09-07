@@ -524,6 +524,8 @@
 
 - **[Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences)**
 
+- **[Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
