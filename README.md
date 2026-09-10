@@ -530,6 +530,8 @@
 
 - **[Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii)**
 
+- **[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
