@@ -532,6 +532,8 @@
 
 - **[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree)**
 
+- **[Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
