@@ -534,6 +534,8 @@
 
 - **[Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/)**
 
+- **[Maximum Score of Non-overlapping Intervals.](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
