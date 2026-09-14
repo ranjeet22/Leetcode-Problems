@@ -538,6 +538,8 @@
 
 - **[Image Overlap](https://leetcode.com/problems/image-overlap/description)**
 
+- **[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
