@@ -540,6 +540,8 @@
 
 - **[Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/description)**
 
+- **[Maximum Number of Non-overlapping Palindrome Substrings](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
