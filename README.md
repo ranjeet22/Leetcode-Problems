@@ -562,6 +562,8 @@
 
 - [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii)**
 
+- [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
