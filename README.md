@@ -560,9 +560,11 @@
 
 - **[Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/)**
 
-- [Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii)**
+- **[Brace Expansion II](https://leetcode.com/problems/brace-expansion-ii)**
 
-- [Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)**
+- **[Evaluate the Bracket Pairs of a String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)**
+
+- **[Reverse Substrings Between Each Pair of Parentheses](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses)**
 
 ## LeetCode 75
 
