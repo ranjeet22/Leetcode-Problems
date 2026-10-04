@@ -578,6 +578,8 @@
 
 - **[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)**
 
+- **[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
