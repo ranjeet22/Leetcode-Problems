@@ -580,6 +580,8 @@
 
 - **[Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string)**
 
+- **[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
