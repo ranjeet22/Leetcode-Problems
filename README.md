@@ -584,6 +584,8 @@
 
 - **[Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)**
 
+- **[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
