@@ -586,6 +586,8 @@
 
 - **[Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses)**
 
+- **[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
