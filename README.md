@@ -588,6 +588,8 @@
 
 - **[Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses)**
 
+- **[Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
