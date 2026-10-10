@@ -590,6 +590,8 @@
 
 - **[Minimum Insertions to Balance a Parentheses String](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/)**
 
+- **[Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
