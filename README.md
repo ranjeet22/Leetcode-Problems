@@ -592,6 +592,8 @@
 
 - **[Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference)**
 
+- **[Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
