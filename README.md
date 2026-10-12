@@ -592,7 +592,9 @@
 
 - **[Minimum Sum of Squared Difference](https://leetcode.com/problems/minimum-sum-of-squared-difference)**
 
-- **[Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements)**
+- **[Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements)**
+
+- **[Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/)**
 
 ## LeetCode 75
 
