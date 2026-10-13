@@ -596,6 +596,8 @@
 
 - **[Apply Operations on Array to Maximize Sum of Squares](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/)**
 
+- **[Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
