@@ -598,6 +598,9 @@
 
 - **[Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares)**
 
+- **[Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximum-alternating-sum-of-squares)**
+
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
