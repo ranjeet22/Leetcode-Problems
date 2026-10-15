@@ -600,6 +600,8 @@
 
 - **[Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximum-alternating-sum-of-squares)**
 
+- **[Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/)**
+
 
 ## LeetCode 75
 
