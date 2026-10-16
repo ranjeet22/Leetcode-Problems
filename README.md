@@ -574,7 +574,7 @@
 
 - **[Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)**
 
-## August 2026 Problems
+## October 2026 Problems
 
 - **[Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses)**
 
