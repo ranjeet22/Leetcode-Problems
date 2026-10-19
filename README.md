@@ -608,6 +608,8 @@
 
 - **[Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/)**
 
+- **[Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
