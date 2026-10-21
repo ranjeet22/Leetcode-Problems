@@ -610,6 +610,8 @@
 
 - **[Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array)**
 
+- **[Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
