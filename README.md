@@ -612,6 +612,8 @@
 
 - **[Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string)**
 
+- **[Minimum Operations to Sort a Permutation](https://leetcode.com/problems/minimum-operations-to-sort-a-permutation/description/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
