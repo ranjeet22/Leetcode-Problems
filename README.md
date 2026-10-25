@@ -616,6 +616,8 @@
 
 - **[Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation)**
 
+- **[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
