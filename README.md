@@ -618,6 +618,8 @@
 
 - **[Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description)**
 
+- **[Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
