@@ -620,6 +620,8 @@
 
 - **[Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k/)**
 
+- **[Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
