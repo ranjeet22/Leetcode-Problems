@@ -622,6 +622,8 @@
 
 - **[Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path)**
 
+- **[Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/description/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
