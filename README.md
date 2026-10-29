@@ -624,6 +624,8 @@
 
 - **[Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/description/)**
 
+- **[Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
