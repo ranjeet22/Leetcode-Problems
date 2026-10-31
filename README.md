@@ -626,6 +626,8 @@
 
 - **[Palindromic Path Queries in a Tree](https://leetcode.com/problems/palindromic-path-queries-in-a-tree)**
 
+- **[Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
