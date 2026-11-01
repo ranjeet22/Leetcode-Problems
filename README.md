@@ -628,6 +628,8 @@
 
 - **[Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/)**
 
+- **[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements)**
+
 ## LeetCode 75
 
 - **[Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately)**
